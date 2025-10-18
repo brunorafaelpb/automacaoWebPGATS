@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+.env
+.DS_Store
+.vscode/
+.idea/
+.nyc_output/
+.eslintcache
+cypress/videos/
+cypress/screenshots/
+*.log
